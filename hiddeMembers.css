@@ -2,3 +2,12 @@
 .ms-membersInfo-infoArea {
 	display:none;
 }
+
+.ms-compositeHeader-topWrapper {
+    margin-top: 5px !Important;
+    background-color: green;
+}
+
+.title-53 {
+    color: red !Important;
+}
